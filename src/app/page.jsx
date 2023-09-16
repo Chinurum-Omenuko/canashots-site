@@ -1,6 +1,6 @@
-
+import Bgvid from '../components/Bgvid/Bgvid'
 export default function Home() {
   return (
-    <h1>Home Page</h1>
+    <Bgvid />
   );
 }
